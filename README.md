@@ -2,7 +2,7 @@
 
 # react-native-keyboard-spacer
 
-Plug and play iOS react-native keyboard spacer view.
+Plug and play react-native keyboard spacer view.
 
 ![image](https://media.giphy.com/media/3oEjHJwLyYg7upTyYo/giphy.gif)
 ## Quick Start
